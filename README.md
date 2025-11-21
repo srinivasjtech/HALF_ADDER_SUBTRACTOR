@@ -84,14 +84,16 @@ Developed by: Srinivas J
 RegisterNumber:*/25015562
 
 **RTL Schematic**
-
+#Half adder
 <img width="1018" height="651" alt="Screenshot 2025-11-21 211246" src="https://github.com/user-attachments/assets/84e5b369-0936-408a-a2c0-de28d082755c" />
+#Half subtractor
 <img width="1023" height="684" alt="Screenshot 2025-11-21 211944" src="https://github.com/user-attachments/assets/72efea27-a380-4f53-a312-05add7e7423f" />
 
 
 **Output/TIMING Waveform**
-
+#Half adder
 <img width="818" height="206" alt="Screenshot 2025-11-21 211256" src="https://github.com/user-attachments/assets/296465d9-2d63-4c18-97ac-f7b780433878" />
+#Half Subtractor
 <img width="834" height="233" alt="Screenshot 2025-11-21 211953" src="https://github.com/user-attachments/assets/f12af753-8557-4b00-a635-10a9fed51b0f" />
 
 
